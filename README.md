@@ -46,6 +46,6 @@ Please cite this article and the previous articles that ANM-LD has been introduc
 * Yang M, Livnat Levanon N, Acar B, Aykac Fas B, Masrati G, Rose J, Ben-Tal N, Haliloglu T, Zhao Y, Lewinson O. Single-molecule probing of the conformational homogeneity of the ABC transporter BtuCD. Nat Chem Biol. 2018. 14(7):715-722. [doi: 10.1038/s41589-018-0088-2]
 
 Please cite the following articles if you would like to use Transfer Entropy:
-* Hacisuleyman A, Erman B. Causality, transfer entropy, and allosteric communication landscapes in proteins with harmonic interactions. Proteins., 2017. 85(6), 1056-1064. [doi: 10.1002/prot.25272]
 * Ersoy A, Altintel B, Livnat Levanon N, Ben-Tal N, Haliloglu T, Lewinson O. Computational analysis of long-range allosteric communications in CFTR. bioRxiv 2023.06.07.543997. [doi: 10.1101/2023.06.07.543997]
 * Altintel B, Acar B, Erman B, Haliloglu T. Subsets of Slow Dynamic Modes Reveal Global Information Sources as Allosteric Sites. J Mol Biol. 2022. 434(17):167644. [doi: 10.1016/j.jmb.2022.167644]
+* Hacisuleyman A, Erman B. Causality, transfer entropy, and allosteric communication landscapes in proteins with harmonic interactions. Proteins., 2017. 85(6), 1056-1064. [doi: 10.1002/prot.25272]
