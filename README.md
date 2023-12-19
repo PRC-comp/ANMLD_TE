@@ -41,10 +41,11 @@ TransferEntropy.zip file contains scripts, functions, and input files necessary 
 ## Citation
 
 Please cite this article and the previous articles that ANM-LD has been introduced in:
-* Ersoy Ayca, Altintel Bengi, Livnat Levanon Nurit, Ben-Tal Nir, Haliloglu Turkan, Lewinson Oded. Computational analysis of long-range allosteric communications in CFTR. bioRxiv 2023.06.07.543997; [doi: https://doi.org/10.1101/2023.06.07.543997](https://elifesciences.org/reviewed-preprints/88659)
-* Acar B, Rose J, Aykac Fas B, Ben-Tal N, Lewinson O, Haliloglu T. Distinct Allosteric Networks Underlie Mechanistic Speciation of ABC Transporters. Structure. 2020 Jun 2;28(6):651-663.e5. [doi: 10.1016/j.str.2020.03.014.](https://pubmed.ncbi.nlm.nih.gov/32320672/)
-* Yang M, Livnat Levanon N, Acar B, Aykac Fas B, Masrati G, Rose J, Ben-Tal N, Haliloglu T, Zhao Y, Lewinson O. Single-molecule probing of the conformational homogeneity of the ABC transporter BtuCD. Nat Chem Biol. 2018 Jul;14(7):715-722. [doi: 10.1038/s41589-018-0088-2.](https://pubmed.ncbi.nlm.nih.gov/29915236/)
+* Ersoy Ayca, Altintel Bengi, Livnat Levanon Nurit, Ben-Tal Nir, Haliloglu Turkan, Lewinson Oded. Computational analysis of long-range allosteric communications in CFTR. bioRxiv 2023.06.07.543997; [doi: https://doi.org/10.1101/2023.06.07.543997]
+* Acar B, Rose J, Aykac Fas B, Ben-Tal N, Lewinson O, Haliloglu T. Distinct Allosteric Networks Underlie Mechanistic Speciation of ABC Transporters. Structure. 2020 Jun 2;28(6):651-663.e5. [doi: 10.1016/j.str.2020.03.014.]
+* Yang M, Livnat Levanon N, Acar B, Aykac Fas B, Masrati G, Rose J, Ben-Tal N, Haliloglu T, Zhao Y, Lewinson O. Single-molecule probing of the conformational homogeneity of the ABC transporter BtuCD. Nat Chem Biol. 2018 Jul;14(7):715-722. [doi: 10.1038/s41589-018-0088-2.]
 
 Please cite the following articles if you would like to use Transfer Entropy:
-* Ersoy Ayca, Altintel Bengi, Livnat Levanon Nurit, Ben-Tal Nir, Haliloglu Turkan, Lewinson Oded. Computational analysis of long-range allosteric communications in CFTR. bioRxiv 2023.06.07.543997; [doi: https://doi.org/10.1101/2023.06.07.543997](https://elifesciences.org/reviewed-preprints/88659)
-* Altintel B, Acar B, Erman B, Haliloglu T. Subsets of Slow Dynamic Modes Reveal Global Information Sources as Allosteric Sites. J Mol Biol. 2022 Sep 15;434(17):167644. [doi: 10.1016/j.jmb.2022.167644.](https://pubmed.ncbi.nlm.nih.gov/35644497/)
+* Hacisuleyman, A., Erman, B. Causality, transfer entropy, and allosteric communication landscapes in proteins with harmonic interactions. Proteins: Structure, Function, and Bioinformatics, 2017, 85(6), 1056-1064. [doi: https://doi.org/10.1002/prot.25272]
+* Ersoy Ayca, Altintel Bengi, Livnat Levanon Nurit, Ben-Tal Nir, Haliloglu Turkan, Lewinson Oded. Computational analysis of long-range allosteric communications in CFTR. bioRxiv 2023.06.07.543997; [doi: https://doi.org/10.1101/2023.06.07.543997]
+* Altintel B, Acar B, Erman B, Haliloglu T. Subsets of Slow Dynamic Modes Reveal Global Information Sources as Allosteric Sites. J Mol Biol. 2022 Sep 15;434(17):167644. [doi: 10.1016/j.jmb.2022.167644.]
